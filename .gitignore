@@ -1,0 +1,12 @@
+short
+short_hp
+pycbc_conf
+data/GW170814_H1_4KHZ.gwf
+data/GW170814_L1_4KHZ.gwf
+data/GW170814_V1_4KHZ.gwf
+data/GW170817_G1_4KHZ.gwf
+data/GW170817_H1_4KHZ.gwf
+data/GW170817_L1_4KHZ.gwf
+data/GW170817_V1_4KHZ.gwf
+.distance_marginalization_lookup.npz
+.ipynb_checkpoints
